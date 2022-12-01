@@ -1,0 +1,37 @@
+.bgimg{
+    background-image: url("https://st3.depositphotos.com/11701691/15290/v/450/depositphotos_152908586-stock-illustration-ramadan-background-with-moon-and.jpg");
+    background-size:contain;
+    height: 50vh;
+    width: 100vw;
+}
+.heading{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    padding-top: 160px;
+}
+.ramadanbg{
+    background-color:azure;
+    height: 80vh;
+}
+.images{
+    height: 100px;
+    width: 100px;
+}
+.ramadancard{
+    background-color:cadetblue;
+    width: 150px;
+    border-radius: 30px;
+    padding: 20px;
+    height: 200px;
+    text-align:center;
+    margin: 10px;
+}
+.ramadanheading {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.ramadanpara{
+    font-weight: bold;
+}
